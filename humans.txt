@@ -1,0 +1,16 @@
+/* TEAM */
+	Chef & Inteaction designer:Raisa Kemppainen
+	Contact: raisajohanna.kemppainen [at] gmail.com
+	From:Stockholm, Sverige
+
+/* THANKS */
+
+	Bundels: Jekyll
+    Minimia: Sass
+		
+
+/* SITE */
+	Last update:2019-11-15
+	Language: English
+	Doctype:HTML5
+	IDE: Sublime Text, Notepad++, FileZilla, Photoshop

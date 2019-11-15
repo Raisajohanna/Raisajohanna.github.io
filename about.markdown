@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi! 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This is my first Jekyll-Site.
+Just messing around and trying to find some cool stuff to experiment with. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+My name is Raisa and I'm studying the art of understanding how people work in their everyday life with their everyday products. Yepp, interaction. Interaction design is an important component within the giant umbrella of user experience (UX) design. Interaction design can be understood in simple as the design of the interaction between users and products. With interaction design the goal is to create products that enable the user to achieve their objective(s) in the best way possible.
 
-
-[jekyll-organization]: https://github.com/jekyll
+More about me: 
+I live with my son half of his time, he's five! And has a little bit of a little dramaqueen in him. So trying to learn all this coding and stuff isn't easy with a kiddo. 
