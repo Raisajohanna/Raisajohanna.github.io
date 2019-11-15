@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "What is humans.txt and how have you configure it for your site?"
+date:   2019-11-15 08:01:26 -0600
+categories: jekyll update
+---
