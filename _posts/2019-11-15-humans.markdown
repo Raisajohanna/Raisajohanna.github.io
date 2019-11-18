@@ -4,3 +4,13 @@ title:  "What is humans.txt and how have you configure it for your site?"
 date:   2019-11-15 08:01:26 -0600
 categories: jekyll update
 ---
+
+## Humans.txt
+
+Is an initiative for knowing the people behind the website. It's a document containing the information about all the different people who have contributed to building the website. 
+
+## How did I do it? 
+
+I placed a human.txt file in the root of the website. I uses the standard humans.txt from Abel Cabans [`humans.txt`][humans.txt]
+
+[humans.txt]: http://humanstxt.org/humans.txt
