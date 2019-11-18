@@ -11,6 +11,6 @@ Is an initiative for knowing the people behind the website. It's a document cont
 
 ## How did I do it? 
 
-I placed a human.txt file in the root of the website. I uses the standard humans.txt from Abel Cabans [`humans.txt`][humans.txt]
+I placed a human.txt file in the root of the website. I uses the standard humans.txt from Abel Cabans `[humans.txt]`[humans.txt]
 
 [humans.txt]: http://humanstxt.org/humans.txt

@@ -4,10 +4,10 @@ title:  "What is Robots.txt and how have you configure it for your site?"
 date:   2019-11-15 07:01:26 -0600
 categories: jekyll update
 ---
-### robot.txt
+## robot.txt
 
 robot.txt is a document in the root of your website. It controls which areas of the website should not be processed or scanned of web crawlers and other web robots. Robots are often used by search enginges to categorize websites. 
 
-### How did I do it?
+## How did I do it?
 
 I configure that all of my pages on the website includes in the robot.txt file. =D 
