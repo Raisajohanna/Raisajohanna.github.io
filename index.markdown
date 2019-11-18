@@ -4,3 +4,11 @@
 
 layout: default
 ---
+
+# Welcome
+
+This is a test site for my Jekyll projects. I'm taking a course at lnu.se called client-based programing.
+This site is my playground for the course. Hope to fill it with some content soon.....
+
+#### C ya Raisa 
+

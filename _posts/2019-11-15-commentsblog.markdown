@@ -7,7 +7,7 @@ categories: jekyll update
 
 ## Diqus
 
-I used the comment-service `[Disqus]`[Disqus]. It's a plugin that makes it easy to have a comment-functionality on your blogpage. 
+I used the comment-service [Disqus][Disqus]. It's a plugin that makes it easy to have a comment-functionality on your blogpage. 
 
 ## How did I use it?
 
