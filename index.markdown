@@ -3,6 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+title: Home
+description: This is my test jekyll-page.
+images: /assets/raisaprofil.png 
 ---
 
 # Welcome
