@@ -5,7 +5,7 @@
 layout: default
 title: Home
 description: This is my test jekyll-page.
-images: /assets/raisaprofil.png 
+image: /assets/raisaprofil.png 
 ---
 
 # Welcome

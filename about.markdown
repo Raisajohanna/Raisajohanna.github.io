@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-images: /assests/redbike.jpg
+image: /assets/redbike.jpg
 ---
 
 ## Hi! 
